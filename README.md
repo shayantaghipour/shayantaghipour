@@ -1,6 +1,6 @@
-# 👋 MyFeatures
+# MyFeatures
 
-Hey There these are MyFeatures and Skills
+👋 Hey There these are MyFeatures and Skills
 
 
 # ⚙️ Languages and Tools
