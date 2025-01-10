@@ -1,7 +1,6 @@
-# 👋 Hey There these are MyFeatures and Skills
+# 👋 MyFeatures
 
-Welcome to my GitHub page and
-i work as a front-end web developer.
+Hey There these are MyFeatures and Skills
 
 
 # ⚙️ Languages and Tools
