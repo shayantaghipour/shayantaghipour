@@ -1,4 +1,4 @@
-# 👋 MyFeatures 
+# 👋 Hey There these are MyFeatures 
 
 Welcome to my GitHub page and
 i work as a front-end web developer.
